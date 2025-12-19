@@ -1,10 +1,10 @@
-# # QA отчёт: СБЕР_K1.1 (Linux AUTO)
+# # QA отчёт: .1 (Linux AUTO)
 
 - Дата/время: **2025-12-19 16:50:57**
 - Хост: **dkpost3-Cmp-NS483**
 - ОС: **Linux Mint 22.2**
 - Ядро: **6.14.0-37-generic**
-- Raw log: `./qa_logs/qa_sber_k1_1_linux_20251219_165047.log`
+- Raw log: `./qa_logs/qa_k1_1_linux_20251219_165047.log`
 
 ## Итог
 
